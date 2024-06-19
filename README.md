@@ -85,8 +85,8 @@ Make sure you have Node.js and npm (or yarn, pnpm) installed on your machine.
    Open a new terminal tab or window.
 
    ```bash
-   cd frontend
-   npm start
+   cd client
+   npm run dev
    ```
 
    This will start the frontend development server at `http://localhost:5173`.
